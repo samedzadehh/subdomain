@@ -1,1 +1,1 @@
-# subdomain
+# subdomain and subdirectory finder
